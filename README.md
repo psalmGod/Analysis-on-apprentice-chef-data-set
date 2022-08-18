@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @psalmGod
-- 👀 I’m interested in python development jobs
-- 🌱 I’m into data science and machine learning using python
-- 💞️ I’m looking to collaborate on all projects involving python programming
-- 📫 How to reach me is via my email address-Samsonokaome@gmail.com or via my phone number-07069641548
-
-<!---
-psalmGod/psalmGod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Apprenctice Chef Company data analysis
+This is the compilation of various analysis carried out on a data set provided by a company involved in redering catering services, it involves price predictions and cohort analysis as regarding customer satisfaction interactions.
